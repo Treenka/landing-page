@@ -1,0 +1,67 @@
+
+
+/***GET STARTED BUTTON***/
+
+#get-started {
+    font-weight: bold;
+    margin: auto auto;
+    width: 150px;
+}
+
+/***BUTTONS IN PRICING SECTION***/
+.price-btn {
+    margin: 20px auto;
+    width: 100px;
+    padding-bottom: 10px;
+
+
+}
+
+.email {
+  border-style: solid;
+  border-width: 1px;
+}
+
+/***PRICING LISTINGS (3) *****/
+.col-4 {
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
+}
+
+/***PRICING TEXT ALIGNMENT****/
+
+.pricing-p {
+
+}
+
+.price {
+  padding-bottom: 10px;
+}
+
+.price-item-title {
+  padding-bottom: 20px;
+}
+
+/**FOOTER***/
+
+.foot-links {
+  margin-left: 60%;
+  margin-right: 0px;
+
+  padding-top: 1rem;
+}
+
+.icon {
+  font-size: 3rem;
+}
+
+.copyright {
+  margin-left: 60%;
+  height: 2rem;
+  margin-bottom: 0px;
+}
+
+.copyright p {
+  margin-bottom: 0px;
+}
