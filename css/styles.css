@@ -73,3 +73,7 @@ form {
 .copyright p {
   margin-bottom: 0px;
 }
+
+#foot {
+  width: 60%;
+}
